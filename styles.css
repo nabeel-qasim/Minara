@@ -1,0 +1,34 @@
+.banner {
+
+    background-position-x: center;
+    background-image: url('images/banner-1.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+
+    font-family: 'Inter', sans-serif;
+}
+
+.liner {
+
+    background-image: url('images/Line\ 1.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position-y: center;
+
+}
+
+.outlined {
+    color: white;
+    -webkit-text-stroke: 1px white;
+}
+
+body {
+    font-family: 'Urbanist', sans-serif;
+}
+
+.hollow {
+    color: white;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px white;
+}
